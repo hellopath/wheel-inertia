@@ -4,7 +4,7 @@ This module solves the problem of longtime events from a trackpad or a magic mou
 
 The base of the code coming from a comment of @msimpson (https://github.com/msimpson)
 
-See [MDN](https://github.com/jquery/jquery-mousewheel/issues/36)
+See [comments](https://github.com/jquery/jquery-mousewheel/issues/36)
 for more details.
 
 # Usage
