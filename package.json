@@ -1,0 +1,22 @@
+{
+  "name": "wheel-inertia",
+  "version": "0.0.1",
+  "description": "Mouse wheel inertia which solves the problem of longtime events from a trackpad or a magic mouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wheel",
+    "mouse",
+    "inertia",
+    "magicmouse",
+    "trackpad"
+  ],
+  "author": "Panagiotis Thomoglou",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellopath/wheel-inertia"
+  }
+}
