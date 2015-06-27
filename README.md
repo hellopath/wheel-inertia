@@ -1,4 +1,4 @@
-# wheel inertia
+# Wheel Inertia
 
 This module solves the problem of longtime events from a trackpad or a magic mouse
 
@@ -6,6 +6,8 @@ The base of the code coming from a comment of @msimpson (https://github.com/msim
 
 See [comments](https://github.com/jquery/jquery-mousewheel/issues/36)
 for more details.
+
+Example [here](http://jsfiddle.net/n7bk6pb9/7/)
 
 # Usage
 
@@ -25,7 +27,7 @@ var delta = e.wheelDelta
 inertia.update(delta)
 ```
 
-# install
+# Install
 
 With [npm](https://npmjs.org) do:
 
@@ -33,6 +35,6 @@ With [npm](https://npmjs.org) do:
 npm install wheel-inertia
 ```
 
-# license
+# License
 
 MIT
