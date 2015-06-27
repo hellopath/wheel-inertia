@@ -7,8 +7,6 @@ The base of the code coming from a comment of @msimpson (https://github.com/msim
 See [comments](https://github.com/jquery/jquery-mousewheel/issues/36)
 for more details.
 
-Example [here](http://jsfiddle.net/n7bk6pb9/7/)
-
 # Usage
 
 ``` js
