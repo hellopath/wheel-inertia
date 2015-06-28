@@ -1,6 +1,6 @@
 {
   "name": "wheel-inertia",
-  "version": "0.0.1.a",
+  "version": "0.0.2",
   "description": "Mouse wheel inertia which solves the problem of longtime events from a trackpad or a magic mouse",
   "main": "index.js",
   "scripts": {
